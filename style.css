@@ -2,3 +2,21 @@ header {
     background-color: #A51010;
     
 }
+ 
+.title {
+   text-align: center;
+   color: aliceblue;
+   background-color: #A51010;
+}
+
+.texto { 
+    text-align: center;
+    color: aliceblue;
+    background-color: #A51010;
+}
+
+.news{
+    color: aliceblue;
+    background-color: #A51010;
+
+}
