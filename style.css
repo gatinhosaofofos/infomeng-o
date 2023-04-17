@@ -1,6 +1,5 @@
 header {
     background-color: #A51010;
-    
 }
  
 .title {
@@ -16,7 +15,10 @@ header {
 }
 
 .news{
+    background-image: linear-gradient(#A51010,#000000);
     color: aliceblue;
-    background-color: #A51010;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
