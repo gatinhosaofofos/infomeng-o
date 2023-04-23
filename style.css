@@ -1,17 +1,20 @@
 header {
     background-color: #A51010;
+    border: #A51010;
 }
  
 .title {
    text-align: center;
    color: aliceblue;
    background-color: #A51010;
+   font-size: 250%;
 }
 
 .texto { 
     text-align: center;
     color: aliceblue;
     background-color: #A51010;
+    font-size: 160%;
 }
 
 .news{
@@ -21,4 +24,17 @@ header {
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    text-align: center;
+    font-size: 120%
+    
+}
+ .curio {
+text-align: center;
+color: aliceblue;
+background-color: #000000;
+align-items: center;
+}
+
+.fim {
+    text-align: center;
 }
